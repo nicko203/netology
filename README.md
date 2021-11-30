@@ -22,3 +22,6 @@
 - Jsonnet:
 ![jason](https://github.com/nicko203/netology/blob/01-intro-01-1/netology_jsonnet.png)
 
+
+### Задание №2 - Описание жизненного цикла задачи (разработки нового функционала)
+
