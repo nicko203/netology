@@ -8,4 +8,17 @@
 4. Проверка подсветки синтаксиса:
 
 - Terraform:
-![111](https://github.com/nicko203/netology/blob/01-intro-01-1/netology_tf.png)
+![tf](https://github.com/nicko203/netology/blob/01-intro-01-1/netology_tf.png)
+
+Bash:
+![sh](https://github.com/nicko203/netology/blob/01-intro-01-1/netology_sh.png)
+
+Markdown:
+![md](https://github.com/nicko203/netology/blob/01-intro-01-1/netology_md.png)
+
+Yaml:
+![yaml](https://github.com/nicko203/netology/blob/01-intro-01-1/netology_yaml.png)
+
+Jsonnet:
+![jason](https://github.com/nicko203/netology/blob/01-intro-01-1/netology_jsonnet.png)
+
