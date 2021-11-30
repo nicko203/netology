@@ -8,4 +8,4 @@
 4. Проверка подсветки синтаксиса:
 
 - Terraform:
-!(https://github.com/nicko203/netology/blob/01-intro-01-1/netology_tf.png)
+![111](https://github.com/nicko203/netology/blob/01-intro-01-1/netology_tf.png)
