@@ -10,15 +10,15 @@
 - Terraform:
 ![tf](https://github.com/nicko203/netology/blob/01-intro-01-1/netology_tf.png)
 
-Bash:
+- Bash:
 ![sh](https://github.com/nicko203/netology/blob/01-intro-01-1/netology_sh.png)
 
-Markdown:
+- Markdown:
 ![md](https://github.com/nicko203/netology/blob/01-intro-01-1/netology_md.png)
 
-Yaml:
+- Yaml:
 ![yaml](https://github.com/nicko203/netology/blob/01-intro-01-1/netology_yaml.png)
 
-Jsonnet:
+- Jsonnet:
 ![jason](https://github.com/nicko203/netology/blob/01-intro-01-1/netology_jsonnet.png)
 
