@@ -6,3 +6,5 @@
 2. Установлены плагины Terraform, MarkDown, Yaml/Ansible Support, Jsonnet.
 3. Склонирован репозиторий с ДЗ.
 4. Проверка подсветки синтаксиса:
+
+- Terraform:
